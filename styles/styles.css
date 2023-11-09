@@ -1,4 +1,9 @@
 /* styles */
+.highlighted-centered{
+    background-color: rgba(232, 238, 149, 0.4); text-align: center;  font-weight: Bold;
+    font-family: sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
 Body{
     background-Color: rgb(106, 157, 186,04);
 }
@@ -6,4 +11,11 @@ Body{
 
 .body{
     color: rgb(215, 227, 50,0.4);
+}
+img{
+    Height: auto;
+    width: 250px;
+}
+.lists{
+    font-weight: lighter; color: Rgb(147, 182, 201,0.7);
 }
